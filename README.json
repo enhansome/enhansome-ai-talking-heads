@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SadTalker",
+          "description": "Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T12:51:53Z",
+            "owner": "OpenTalker",
+            "repo": "SadTalker",
+            "stars": 14014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioGPT",
+          "description": "Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-06T21:35:18Z",
+            "owner": "AIGC-Audio",
+            "repo": "AudioGPT",
+            "stars": 10172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thin-Plate-Spline-Motion-Model",
+          "description": "Thin-Plate Spline Motion Model for Image Animation. 🖼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-10T23:29:11Z",
+            "owner": "yoyo-nb",
+            "repo": "Thin-Plate-Spline-Motion-Model",
+            "stars": 3606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeneFace",
+          "description": "Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code. 👤💬",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-18T09:10:07Z",
+            "owner": "yerfor",
+            "repo": "GeneFace",
+            "stars": 2658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sd-wav2lip-uhq",
+          "description": "Wav2Lip UHQ extension for Automatic. 👄",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-14T14:30:03Z",
+            "owner": "numz",
+            "repo": "sd-wav2lip-uhq",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVPR2022-DaGAN",
+          "description": "Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation. 👥📹",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-04T12:14:44Z",
+            "owner": "harlanhong",
+            "repo": "CVPR2022-DaGAN",
+            "stars": 996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text2Video",
+          "description": "ICASSP 2022: \"Text2Video: text-driven talking-head video synthesis with phonetic dictionary\". 🔤🎞️",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-04T01:04:48Z",
+            "owner": "michaelzhang-ai",
+            "repo": "Text2Video",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio2Head",
+          "description": "Code for paper \"Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion\" in the conference of IJCAI 2021. 🗣️👤",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-15T07:19:47Z",
+            "owner": "wangsuzhen",
+            "repo": "Audio2Head",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OTAvatar",
+          "description": "This is the official repository for OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering [CVPR2023]. 👤🎭",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-05T06:04:21Z",
+            "owner": "theEricMa",
+            "repo": "OTAvatar",
+            "stars": 324
+          }
+        }
+      ],
+      "title": "GitHub projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:14:59.066Z",
+    "original_repository": "Curated-Awesome-Lists/awesome-ai-talking-heads",
+    "original_repository_sha": "ff61d21ec2a7d83064bb0bac0416f5180f7bf18a",
+    "enhanced_repository": "enhansome/enhansome-ai-talking-heads",
+    "enhanced_repository_description": null,
+    "title": "Awesome talking-head with stars"
+  }
+}
