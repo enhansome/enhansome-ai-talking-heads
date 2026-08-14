@@ -14,7 +14,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14014
+            "stars": 14015
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-02-10T23:29:11Z",
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3606
+            "stars": 3605
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-10-18T09:10:07Z",
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2658
+            "stars": 2657
           }
         },
         {
@@ -134,7 +134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:14:59.066Z",
+    "last_updated": "2026-08-14T16:12:08.754Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-talking-heads",
     "original_repository_sha": "ff61d21ec2a7d83064bb0bac0416f5180f7bf18a",
     "enhanced_repository": "enhansome/enhansome-ai-talking-heads",
