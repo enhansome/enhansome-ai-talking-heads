@@ -14,14 +14,14 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 ## GitHub projects
 
 * [SadTalker](https://github.com/OpenTalker/SadTalker) ⭐ 14,021 | 🐛 665 | 🌐 Python | 📅 2024-06-26 : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
-* [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,170 | 🐛 53 | 🌐 Python | 📅 2024-07-06 : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
+* [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,168 | 🐛 53 | 🌐 Python | 📅 2024-07-06 : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
 * [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) ⭐ 3,605 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2024-02-10 : Thin-Plate Spline Motion Model for Image Animation. 🖼️
 * [GeneFace](https://github.com/yerfor/GeneFace) ⭐ 2,657 | 🐛 102 | 🌐 Python | 📅 2024-10-18 : Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code. 👤💬
 * [sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) ⭐ 1,424 | 🐛 72 | 🌐 Python | 📅 2024-06-14 : Wav2Lip UHQ extension for Automatic. 👄
 * [CVPR2022-DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN) ⭐ 996 | 🐛 34 | 🌐 Python | 📅 2023-12-04 : Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation. 👥📹
 * [Text2Video](https://github.com/sibozhang/Text2Video) ⚠️ Archived : ICASSP 2022: "Text2Video: text-driven talking-head video synthesis with phonetic dictionary". 🔤🎞️
-* [Audio2Head](https://github.com/wangsuzhen/Audio2Head) ⭐ 353 | 🐛 13 | 🌐 Python | 📅 2024-02-15 : Code for paper "Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion" in the conference of IJCAI 2021. 🗣️👤
-* [OTAvatar](https://github.com/theEricMa/OTAvatar) ⭐ 324 | 🐛 9 | 🌐 Python | 📅 2024-03-05 : This is the official repository for OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering \[CVPR2023]. 👤🎭
+* [Audio2Head](https://github.com/wangsuzhen/Audio2Head) ⭐ 352 | 🐛 13 | 🌐 Python | 📅 2024-02-15 : Code for paper "Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion" in the conference of IJCAI 2021. 🗣️👤
+* [OTAvatar](https://github.com/theEricMa/OTAvatar) ⭐ 323 | 🐛 9 | 🌐 Python | 📅 2024-03-05 : This is the official repository for OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering \[CVPR2023]. 👤🎭
 
 - [Wunjo AI](https://github.com/wladradchenko/wunjo.wladradchenko.ru) ⭐ 1,169 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 : Synthesize & clone voices in English, Russian & Chinese, real-time speech recognition, deepfake face & lips animation, face swap with one photo, change video by text prompts, segmentation, and retouching. Open-source, local & free. 🗣️👤💬
 - [IP\_LAP](https://github.com/Weizhi-Zhong/IP_LAP) ⭐ 734 | 🐛 43 | 🌐 Python | 📅 2024-01-06 : CVPR2023 talking face implementation for Identity-Preserving Talking Face Generation With Landmark and Appearance Priors. 🔥🤖
@@ -110,4 +110,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

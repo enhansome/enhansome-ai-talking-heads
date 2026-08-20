@@ -30,7 +30,7 @@
             "last_commit": "2024-07-06T21:35:18Z",
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10170
+            "stars": 10168
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-02-15T07:19:47Z",
             "owner": "wangsuzhen",
             "repo": "Audio2Head",
-            "stars": 353
+            "stars": 352
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-03-05T06:04:21Z",
             "owner": "theEricMa",
             "repo": "OTAvatar",
-            "stars": 324
+            "stars": 323
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 632778930,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T15:39:13Z",
+            "last_commit": "2026-08-19T18:20:01Z",
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
             "stars": 1169
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:54:44.091Z",
+    "last_updated": "2026-08-20T15:56:34.169Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-talking-heads",
     "original_repository_id": 672364575,
     "original_repository_sha": "ff61d21ec2a7d83064bb0bac0416f5180f7bf18a",
