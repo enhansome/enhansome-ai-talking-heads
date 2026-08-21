@@ -15,7 +15,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14021
+            "stars": 14024
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-02-15T07:19:47Z",
             "owner": "wangsuzhen",
             "repo": "Audio2Head",
-            "stars": 352
+            "stars": 351
           }
         },
         {
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 632778930,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T18:20:01Z",
+            "last_commit": "2026-08-21T15:33:15Z",
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1169
+            "stars": 1168
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:56:34.169Z",
+    "last_updated": "2026-08-21T15:56:40.266Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-talking-heads",
     "original_repository_id": 672364575,
     "original_repository_sha": "ff61d21ec2a7d83064bb0bac0416f5180f7bf18a",
