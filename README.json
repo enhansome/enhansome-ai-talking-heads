@@ -15,7 +15,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14032
+            "stars": 14035
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-07-06T21:35:18Z",
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10169
+            "stars": 10168
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-23T22:19:48Z",
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1168
+            "stars": 1169
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:02:29.317Z",
+    "last_updated": "2026-08-25T06:41:07.969Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-talking-heads",
     "original_repository_id": 672364575,
     "original_repository_sha": "ff61d21ec2a7d83064bb0bac0416f5180f7bf18a",
