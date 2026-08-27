@@ -15,7 +15,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14039
+            "stars": 14043
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-07-06T21:35:18Z",
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10168
+            "stars": 10167
           }
         },
         {
@@ -278,9 +278,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:33.245Z",
-    "original_repository": "Curated-Awesome-Lists/awesome-ai-talking-heads",
-    "original_repository_id": 672364575,
+    "last_updated": "2026-08-27T11:20:15.319Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 672364575,
+      "language": null,
+      "last_commit": "2023-10-17T18:50:33Z",
+      "owner": "Curated-Awesome-Lists",
+      "repo": "awesome-ai-talking-heads",
+      "stars": 75
+    },
     "original_repository_sha": "ff61d21ec2a7d83064bb0bac0416f5180f7bf18a",
     "enhanced_repository": "enhansome/enhansome-ai-talking-heads",
     "enhanced_repository_description": null,
