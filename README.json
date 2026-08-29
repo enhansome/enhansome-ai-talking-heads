@@ -15,8 +15,9 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14046
-          }
+            "stars": 14049
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-07-06T21:35:18Z",
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10167
-          }
+            "stars": 10166
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
             "stars": 3604
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "yerfor",
             "repo": "GeneFace",
             "stars": 2657
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
             "stars": 1424
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "harlanhong",
             "repo": "CVPR2022-DaGAN",
             "stars": 996
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "michaelzhang-ai",
             "repo": "Text2Video",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "wangsuzhen",
             "repo": "Audio2Head",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "theEricMa",
             "repo": "OTAvatar",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
             "stars": 1169
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Weizhi-Zhong",
             "repo": "IP_LAP",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "johnGettings",
             "repo": "LIHQ",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "harlanhong",
             "repo": "ICCV2023-MCNET",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "TheTempAccount",
             "repo": "Co-Speech-Motion-Generation",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "shrubb",
             "repo": "latent-pose-reenactment",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "foivospar",
             "repo": "NED",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "nihaomiao",
             "repo": "WACV23_TSNet",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         },
         {
           "node_type": "item",
@@ -271,14 +288,15 @@
             "owner": "michaelzhang-ai",
             "repo": "Speech2Video",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.874Z"
         }
       ],
       "title": "GitHub projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:28:29.592Z",
+    "last_updated": "2026-08-29T00:03:06.874Z",
     "original_repository_info": {
       "archived": false,
       "id": 672364575,
