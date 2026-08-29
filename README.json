@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "homepage": "https://sadtalker.github.io/",
             "id": 569518584,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-26T12:51:53Z",
+            "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14049
+            "stars": 14049,
+            "topics": [
+              "audio-driven-talking-face",
+              "cvpr2023",
+              "deep-fake",
+              "deep-fakes",
+              "image-animation",
+              "talking-face",
+              "talking-face-generation",
+              "talking-head",
+              "talking-heads"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -26,12 +41,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
+            "homepage": "https://huggingface.co/spaces/AIGC-Audio/AudioGPT",
             "id": 614719201,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-06T21:35:18Z",
+            "open_issues": 53,
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10166
+            "stars": 10166,
+            "topics": [
+              "audio",
+              "gpt",
+              "music",
+              "sound",
+              "speech",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -42,12 +69,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.",
+            "homepage": null,
             "id": 431549854,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-10T23:29:11Z",
+            "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3604
+            "stars": 3604,
+            "topics": [
+              "deep-learning",
+              "deepfake",
+              "face-animation",
+              "face-reenactment",
+              "image-animation",
+              "motion-transfer",
+              "pose-transfer",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -58,12 +99,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code",
+            "homepage": null,
             "id": 597040690,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-18T09:10:07Z",
+            "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2657
+            "stars": 2657,
+            "topics": [
+              "nerf",
+              "pytorch",
+              "talking-face-generation"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -74,12 +124,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wav2Lip UHQ extension for Automatic1111",
+            "homepage": null,
             "id": 674227408,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-14T14:30:03Z",
+            "open_issues": 72,
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
-            "stars": 1424
+            "stars": 1424,
+            "topics": [
+              "audio-driven-talking-face",
+              "deep-fake",
+              "deep-fakes",
+              "face-swapping",
+              "faceswap",
+              "image-animation",
+              "lip-sync",
+              "lipsync",
+              "meta-human-creator",
+              "stable-diffusion-web-ui",
+              "stable-diffusion-webui",
+              "stable-diffusion-webui-plugin",
+              "talking-face",
+              "talking-face-generation",
+              "talking-head",
+              "wav2lip"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -90,12 +162,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation",
+            "homepage": "https://harlanhong.github.io/publications/dagan.html",
             "id": 467358744,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-04T12:14:44Z",
+            "open_issues": 34,
             "owner": "harlanhong",
             "repo": "CVPR2022-DaGAN",
-            "stars": 996
+            "stars": 996,
+            "topics": [
+              "deepfake",
+              "depth",
+              "face",
+              "face-reenactment",
+              "gan",
+              "image-animation",
+              "motion-transfer",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -106,12 +192,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ICASSP 2022: \"Text2Video: text-driven talking-head video synthesis with phonetic dictionary\".  ",
+            "homepage": "https://sites.google.com/view/sibozhang/text2video",
             "id": 354708893,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-04T01:04:48Z",
+            "open_issues": 10,
             "owner": "michaelzhang-ai",
             "repo": "Text2Video",
-            "stars": 438
+            "stars": 438,
+            "topics": [
+              "aigc",
+              "avatar",
+              "deep-learning",
+              "digital-humanities",
+              "gan",
+              "generative-ai",
+              "icassp",
+              "metaverse",
+              "speech-synthesis",
+              "talking",
+              "talking-face-generation",
+              "talking-head",
+              "talking-heads",
+              "text-to-video",
+              "tts",
+              "vid2vid",
+              "video",
+              "virtual-humans"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -122,12 +232,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for paper \"Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion\" in the conference of IJCAI 2021",
+            "homepage": null,
             "id": 419642468,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-15T07:19:47Z",
+            "open_issues": 13,
             "owner": "wangsuzhen",
             "repo": "Audio2Head",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "codes",
+              "ijcai2021",
+              "multi-modal",
+              "paper",
+              "talking-face",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -138,12 +260,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2023] OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering.",
+            "homepage": null,
             "id": 611590475,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-05T06:04:21Z",
+            "open_issues": 9,
             "owner": "theEricMa",
             "repo": "OTAvatar",
-            "stars": 323
+            "stars": 323,
+            "topics": [
+              "cvpr2023",
+              "deep-learning",
+              "deepfake",
+              "face-animation",
+              "face-reenactment",
+              "image-animation",
+              "motion-transfer",
+              "pose-transfer",
+              "pytorch",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -154,12 +292,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wunjo CE: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free.",
+            "homepage": "https://wunjo.online",
             "id": 632778930,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:57:57Z",
+            "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1169
+            "stars": 1169,
+            "topics": [
+              "controlnet",
+              "deepfake",
+              "diffusion-models",
+              "face-animation",
+              "face-swap",
+              "free",
+              "img2video",
+              "lip-sync",
+              "photo-editing",
+              "public-api",
+              "remove-background",
+              "remover",
+              "restyle",
+              "segment-anything",
+              "txt2video",
+              "video-editing",
+              "video-generation",
+              "voice-clone",
+              "wunjo"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -170,12 +333,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR2023 talking face implementation for Identity-Preserving Talking Face Generation With Landmark and Appearance Priors",
+            "homepage": null,
             "id": 616782510,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-06T11:34:16Z",
+            "open_issues": 43,
             "owner": "Weizhi-Zhong",
             "repo": "IP_LAP",
-            "stars": 734
+            "stars": 734,
+            "topics": [
+              "audio-driven-talking-face",
+              "cvpr2023",
+              "talking-face-generation",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -186,12 +359,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter)",
+            "homepage": null,
             "id": 485389413,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-03T18:46:08Z",
+            "open_issues": 5,
             "owner": "johnGettings",
             "repo": "LIHQ",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "artificial-intelligence",
+              "avatar",
+              "avatar-generator",
+              "deep-learning",
+              "talking-head",
+              "text-to-speech",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -202,12 +388,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official code of our ICCV2023 work: Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation",
+            "homepage": null,
             "id": 668191136,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-05T18:43:07Z",
+            "open_issues": 14,
             "owner": "harlanhong",
             "repo": "ICCV2023-MCNET",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "animation",
+              "deepfake",
+              "face",
+              "gan",
+              "image-generation",
+              "motion-transfer",
+              "reenactment",
+              "talking-face-generation",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -218,12 +419,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Freeform Body Motion Generation from Speech",
+            "homepage": null,
             "id": 418147751,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-12T03:56:58Z",
+            "open_issues": 22,
             "owner": "TheTempAccount",
             "repo": "Co-Speech-Motion-Generation",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "co-speech-gesture",
+              "generation-algorithms",
+              "gesture-controller",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -234,12 +445,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The authors' implementation of the \"Neural Head Reenactment with Latent Pose Descriptors\" (CVPR 2020) paper.",
+            "homepage": "https://shrubb.github.io/research/latent-pose-reenactment/",
             "id": 302642567,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-14T10:56:39Z",
+            "open_issues": 6,
             "owner": "shrubb",
             "repo": "latent-pose-reenactment",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "avatar",
+              "deep-learning",
+              "face-reenactment",
+              "facial-landmarks",
+              "generative-model",
+              "head-avatar",
+              "head-reenactment",
+              "landmark-detection",
+              "pose-estimation",
+              "pytorch",
+              "self-supervised-learning",
+              "talking-head",
+              "voxceleb",
+              "voxceleb2"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -250,12 +481,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation for NED (CVPR 2022). It can be used to manipulate the facial emotions of actors in videos based on emotion labels or reference styles.",
+            "homepage": "https://openaccess.thecvf.com/content/CVPR2022/html/Papantoniou_Neural_Emotion_Director_Speech-Preserving_Semantic_Control_of_Facial_Expressions_in_CVPR_2022_paper.html",
             "id": 433356166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-06T17:00:19Z",
+            "open_issues": 6,
             "owner": "foivospar",
             "repo": "NED",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "3dmm",
+              "cvpr2022",
+              "deepfakes",
+              "emotion",
+              "expression-manipulation",
+              "face",
+              "face-edit",
+              "gan",
+              "image-generation",
+              "pytorch",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -266,12 +514,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The pytorch implementation of our WACV23 paper \"Cross-identity Video Motion Retargeting with Joint Transformation and Synthesis\".",
+            "homepage": null,
             "id": 537197184,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-08T18:08:40Z",
+            "open_issues": 1,
             "owner": "nihaomiao",
             "repo": "WACV23_TSNet",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "deep-fake",
+              "motion-transfer",
+              "talking-head",
+              "video-generation",
+              "video-motion-retargeting"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         },
@@ -282,12 +541,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ACCV 2020 \"Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses\"",
+            "homepage": "https://sites.google.com/view/sibozhang/speech2video",
             "id": 282322197,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-27T22:53:07Z",
+            "open_issues": 6,
             "owner": "michaelzhang-ai",
             "repo": "Speech2Video",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "3d",
+              "accv",
+              "aigc",
+              "body",
+              "computer-vision",
+              "face",
+              "gan",
+              "generative-ai",
+              "gesture",
+              "hand",
+              "pose",
+              "rnn",
+              "simulation",
+              "speech",
+              "speech2video-synthesis",
+              "talking-head",
+              "talking-heads",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.874Z"
         }
@@ -296,15 +579,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:03:06.874Z",
+    "last_updated": "2026-08-29T04:59:59.422Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
+      "homepage": null,
       "id": 672364575,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2023-10-17T18:50:33Z",
+      "open_issues": 3,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-talking-heads",
-      "stars": 75
+      "stars": 75,
+      "topics": [
+        "ai-art",
+        "awesome-list",
+        "machine-learning",
+        "state-of-the-art",
+        "talking-face-generation",
+        "talking-head-videos",
+        "talking-heads"
+      ]
     },
     "original_repository_sha": "ff61d21ec2a7d83064bb0bac0416f5180f7bf18a",
     "enhanced_repository": "enhansome/enhansome-ai-talking-heads",
