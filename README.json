@@ -19,7 +19,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14059,
+            "stars": 14062,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -50,7 +50,7 @@
             "open_issues": 53,
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10167,
+            "stars": 10168,
             "topics": [
               "audio",
               "gpt",
@@ -78,7 +78,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3604,
+            "stars": 3605,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -133,7 +133,7 @@
             "open_issues": 72,
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
-            "stars": 1424,
+            "stars": 1423,
             "topics": [
               "audio-driven-talking-face",
               "deep-fake",
@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1169,
+            "stars": 1170,
             "topics": [
               "controlnet",
               "deepfake",
@@ -342,7 +342,7 @@
             "open_issues": 43,
             "owner": "Weizhi-Zhong",
             "repo": "IP_LAP",
-            "stars": 734,
+            "stars": 733,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:40:20.301Z",
+    "last_updated": "2026-09-02T18:50:12.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
