@@ -13,7 +13,7 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 
 ## GitHub projects
 
-* [SadTalker](https://github.com/OpenTalker/SadTalker) ⭐ 14,091 | 🐛 665 | 🌐 Python | 📅 2024-06-26 : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
+* [SadTalker](https://github.com/OpenTalker/SadTalker) ⭐ 14,092 | 🐛 665 | 🌐 Python | 📅 2024-06-26 : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
 * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,171 | 🐛 53 | 🌐 Python | 📅 2024-07-06 : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
 * [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) ⭐ 3,606 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2024-02-10 : Thin-Plate Spline Motion Model for Image Animation. 🖼️
 * [GeneFace](https://github.com/yerfor/GeneFace) ⭐ 2,657 | 🐛 102 | 🌐 Python | 📅 2024-10-18 : Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code. 👤💬
@@ -106,8 +106,8 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 
 ***
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 3 | 🌐 Python | 📅 2026-09-17. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
+This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-09-18. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
