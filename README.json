@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1169,
+            "stars": 1170,
             "topics": [
               "controlnet",
               "deepfake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:03:23.465Z",
+    "last_updated": "2026-09-22T19:00:30.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
