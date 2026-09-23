@@ -19,7 +19,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14098,
+            "stars": 14100,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -108,7 +108,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2657,
+            "stars": 2656,
             "topics": [
               "nerf",
               "pytorch",
@@ -297,7 +297,7 @@
             "id": 632778930,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T16:57:57Z",
+            "last_commit": "2026-09-23T06:12:24Z",
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:00:30.112Z",
+    "last_updated": "2026-09-23T19:08:06.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
