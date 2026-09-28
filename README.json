@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:06:47.350Z",
+    "last_updated": "2026-09-28T21:18:11.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
@@ -591,7 +591,7 @@
       "open_issues": 4,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-talking-heads",
-      "stars": 75,
+      "stars": 74,
       "topics": [
         "ai-art",
         "awesome-list",
