@@ -13,8 +13,8 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 
 ## GitHub projects
 
-* [SadTalker](https://github.com/OpenTalker/SadTalker) ⭐ 14,108 | 🐛 665 | 🌐 Python | 📅 2024-06-26 : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
-* [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,169 | 🐛 53 | 🌐 Python | 📅 2024-07-06 : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
+* [SadTalker](https://github.com/OpenTalker/SadTalker) ⭐ 14,110 | 🐛 665 | 🌐 Python | 📅 2024-06-26 : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
+* [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,167 | 🐛 53 | 🌐 Python | 📅 2024-07-06 : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
 * [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) ⭐ 3,607 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2024-02-10 : Thin-Plate Spline Motion Model for Image Animation. 🖼️
 * [GeneFace](https://github.com/yerfor/GeneFace) ⭐ 2,656 | 🐛 102 | 🌐 Python | 📅 2024-10-18 : Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code. 👤💬
 * [sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) ⭐ 1,421 | 🐛 72 | 🌐 Python | 📅 2024-06-14 : Wav2Lip UHQ extension for Automatic. 👄
@@ -110,4 +110,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
