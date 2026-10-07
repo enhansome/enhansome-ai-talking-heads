@@ -19,7 +19,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14118,
+            "stars": 14120,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -50,7 +50,7 @@
             "open_issues": 53,
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10169,
+            "stars": 10171,
             "topics": [
               "audio",
               "gpt",
@@ -78,7 +78,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3607,
+            "stars": 3608,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -108,7 +108,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2655,
+            "stars": 2656,
             "topics": [
               "nerf",
               "pytorch",
@@ -133,7 +133,7 @@
             "open_issues": 72,
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
-            "stars": 1420,
+            "stars": 1421,
             "topics": [
               "audio-driven-talking-face",
               "deep-fake",
@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1173,
+            "stars": 1174,
             "topics": [
               "controlnet",
               "deepfake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:26:19.732Z",
+    "last_updated": "2026-10-07T20:41:32.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
