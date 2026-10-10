@@ -50,7 +50,7 @@
             "open_issues": 53,
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10169,
+            "stars": 10170,
             "topics": [
               "audio",
               "gpt",
@@ -78,7 +78,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3608,
+            "stars": 3607,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -108,7 +108,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2656,
+            "stars": 2655,
             "topics": [
               "nerf",
               "pytorch",
@@ -133,7 +133,7 @@
             "open_issues": 72,
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
-            "stars": 1421,
+            "stars": 1419,
             "topics": [
               "audio-driven-talking-face",
               "deep-fake",
@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1177,
+            "stars": 1178,
             "topics": [
               "controlnet",
               "deepfake",
@@ -342,7 +342,7 @@
             "open_issues": 43,
             "owner": "Weizhi-Zhong",
             "repo": "IP_LAP",
-            "stars": 734,
+            "stars": 733,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:10:55.642Z",
+    "last_updated": "2026-10-10T19:24:11.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
