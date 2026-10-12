@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-06-26T12:51:53Z",
-            "open_issues": 665,
+            "open_issues": 664,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14124,
+            "stars": 14127,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -50,7 +50,7 @@
             "open_issues": 53,
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10169,
+            "stars": 10168,
             "topics": [
               "audio",
               "gpt",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:37:07.217Z",
+    "last_updated": "2026-10-12T22:32:00.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
