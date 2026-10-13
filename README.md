@@ -13,11 +13,11 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 
 ## GitHub projects
 
-* [SadTalker](https://github.com/OpenTalker/SadTalker) ⭐ 14,127 | 🐛 664 | 🌐 Python | 📅 2024-06-26 : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
-* [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,168 | 🐛 53 | 🌐 Python | 📅 2024-07-06 : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
-* [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) ⭐ 3,607 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2024-02-10 : Thin-Plate Spline Motion Model for Image Animation. 🖼️
+* [SadTalker](https://github.com/OpenTalker/SadTalker) ⭐ 14,131 | 🐛 664 | 🌐 Python | 📅 2024-06-26 : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
+* [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) ⭐ 10,170 | 🐛 53 | 🌐 Python | 📅 2024-07-06 : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
+* [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) ⭐ 3,606 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2024-02-10 : Thin-Plate Spline Motion Model for Image Animation. 🖼️
 * [GeneFace](https://github.com/yerfor/GeneFace) ⭐ 2,654 | 🐛 102 | 🌐 Python | 📅 2024-10-18 : Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code. 👤💬
-* [sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) ⭐ 1,419 | 🐛 72 | 🌐 Python | 📅 2024-06-14 : Wav2Lip UHQ extension for Automatic. 👄
+* [sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) ⭐ 1,420 | 🐛 72 | 🌐 Python | 📅 2024-06-14 : Wav2Lip UHQ extension for Automatic. 👄
 * [CVPR2022-DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN) ⭐ 997 | 🐛 34 | 🌐 Python | 📅 2023-12-04 : Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation. 👥📹
 * [Text2Video](https://github.com/sibozhang/Text2Video) ⚠️ Archived : ICASSP 2022: "Text2Video: text-driven talking-head video synthesis with phonetic dictionary". 🔤🎞️
 * [Audio2Head](https://github.com/wangsuzhen/Audio2Head) ⭐ 351 | 🐛 13 | 🌐 Python | 📅 2024-02-15 : Code for paper "Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion" in the conference of IJCAI 2021. 🗣️👤
@@ -110,4 +110,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
