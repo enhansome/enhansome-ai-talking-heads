@@ -133,7 +133,7 @@
             "open_issues": 72,
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
-            "stars": 1420,
+            "stars": 1421,
             "topics": [
               "audio-driven-talking-face",
               "deep-fake",
@@ -368,7 +368,7 @@
             "open_issues": 5,
             "owner": "johnGettings",
             "repo": "LIHQ",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "artificial-intelligence",
               "avatar",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:53:17.273Z",
+    "last_updated": "2026-10-18T18:13:29.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
