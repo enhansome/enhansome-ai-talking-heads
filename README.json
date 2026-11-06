@@ -19,7 +19,7 @@
             "open_issues": 671,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14183,
+            "stars": 14184,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -78,7 +78,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3608,
+            "stars": 3609,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -108,7 +108,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2657,
+            "stars": 2658,
             "topics": [
               "nerf",
               "pytorch",
@@ -130,7 +130,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-06-14T14:30:03Z",
-            "open_issues": 71,
+            "open_issues": 70,
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
             "stars": 1424,
@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1187,
+            "stars": 1188,
             "topics": [
               "controlnet",
               "deepfake",
@@ -428,7 +428,7 @@
             "open_issues": 22,
             "owner": "TheTempAccount",
             "repo": "Co-Speech-Motion-Generation",
-            "stars": 210,
+            "stars": 209,
             "topics": [
               "co-speech-gesture",
               "generation-algorithms",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:30:01.808Z",
+    "last_updated": "2026-11-06T20:57:54.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
