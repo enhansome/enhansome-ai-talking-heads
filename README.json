@@ -50,7 +50,7 @@
             "open_issues": 53,
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10166,
+            "stars": 10167,
             "topics": [
               "audio",
               "gpt",
@@ -78,7 +78,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3610,
+            "stars": 3609,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:49:05.084Z",
+    "last_updated": "2026-11-10T21:22:06.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
