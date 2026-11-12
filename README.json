@@ -19,7 +19,7 @@
             "open_issues": 671,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14197,
+            "stars": 14200,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -78,7 +78,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3610,
+            "stars": 3609,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -108,7 +108,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2658,
+            "stars": 2657,
             "topics": [
               "nerf",
               "pytorch",
@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1188,
+            "stars": 1189,
             "topics": [
               "controlnet",
               "deepfake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:05:12.658Z",
+    "last_updated": "2026-11-12T21:52:30.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
