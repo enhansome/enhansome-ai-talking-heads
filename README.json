@@ -19,7 +19,7 @@
             "open_issues": 671,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14199,
+            "stars": 14202,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -50,7 +50,7 @@
             "open_issues": 53,
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10170,
+            "stars": 10171,
             "topics": [
               "audio",
               "gpt",
@@ -133,7 +133,7 @@
             "open_issues": 70,
             "owner": "numz",
             "repo": "sd-wav2lip-uhq",
-            "stars": 1424,
+            "stars": 1423,
             "topics": [
               "audio-driven-talking-face",
               "deep-fake",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:59:23.647Z",
+    "last_updated": "2026-11-15T20:27:24.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of 'Talking Head Generation' resources. Features influential papers, groundbreaking algorithms, crucial GitHub repositories, insightful videos, and more. Ideal for AI enthusiasts, researchers, and graphics professionals",
